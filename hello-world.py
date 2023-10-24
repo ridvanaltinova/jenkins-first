@@ -1,1 +1,1 @@
-print('Hello World RIDVAN ALTINOVA software engineer')
+print('Hello World RIDVAN ALTINOVA software enginee diger deneme....')
